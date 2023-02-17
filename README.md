@@ -19,3 +19,7 @@ I am Puneet Kumar, currently working as a Technical Specialist at the [Lenskart.
 ![MICROSOFT SQL SERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+<img width="150" alt="Screenshot 2023-02-17 at 9 48 17 AM" src="https://user-images.githubusercontent.com/25247630/219548391-874c9fe8-45c8-46a0-ae7e-425659632eb3.png">
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/25247630/219608291-c4ad20a1-b040-46e0-8cef-ca60dc5b76f3.png">
